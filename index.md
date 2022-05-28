@@ -1,8 +1,11 @@
 ---
 layout: default
-title: readme
-nav_exclude: true
+title: 00.Introduction
+nav_order: 1
 ---
+
+# 00.Introduction
+<br><br>
 
 formlabs社製3Dプリンタ **[Form2](https://formlabs.com/jp/)**の使用マニュアルです。<br>
 FabLab SENDAI - FLATでの使用方法をベースにまとめられた内容なので、<br>
